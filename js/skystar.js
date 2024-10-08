@@ -141,7 +141,7 @@ setTimeout(function(){
         textone.innerHTML = '爱你';
         texttwo.innerHTML = '我愿意';
         textthree.innerHTML = '';
-      },238500)
+      },230500)
 
 
  
